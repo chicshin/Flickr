@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>814601981553-003n1c793amt89ug2r2fti9094tttdkr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.814601981553-003n1c793amt89ug2r2fti9094tttdkr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGkptPoy0oif8Yegn3xlL_ObhZ3W3AzUU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>814601981553</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.chicshin.viber</string>
+	<key>PROJECT_ID</key>
+	<string>viber-59ffb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>viber-59ffb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:814601981553:ios:37c5319498758e2495d5d0</string>
+	<key>DATABASE_URL</key>
+	<string>https://viber-59ffb.firebaseio.com</string>
+</dict>
+</plist>

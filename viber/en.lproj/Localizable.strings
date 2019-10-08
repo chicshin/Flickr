@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  viber
+
+  Created by Jane Shin on 10/5/19.
+  Copyright © 2019 Jane Shin. All rights reserved.
+*/
+
+// Launch Screen View Controller
+"Welcome" = "Welcome";
+
+// Feeds View Controller
+"Feeds" = "Feeds";
+
+// Home View Controller
+"RequestRegister" = "click to create your profile page and share your beautiful features to other Flickrs.";
+
+// Register View Controller
+"Register" = "Register";
+"CreateUsername" = "Create Username";
+"Email" = "Please enter email address";
+"EnterEmail" = "type email address";
+"Password" = "Password";
+"Re-Password" = "Re-Password";
+"EnterPassword" = "type password";
+"ReEnterPassword" = "re-type password";
+
+"Next" = "Next";
+
+"Already have an account?" = "Already have an account? ";
+"Sign In" = "Sign In ";
+"By signing up you agree to our" = "By signing up you agree to our\n";
+
+// Sign In View Controller
+"Username" = "Username";
+"EnterUsername" = "type username";
+"EnterPassword" = "type password";
+
+"By signing in you agree to our" = "By signing in you agree to our\n";
+"Terms & Privacy Policy" = "Terms & Privacy Policy";
+
+"Can we help?" = "Can we help?";
+"To find password" = "To find password";
+"Get Support" = "Get Support";
+"Cancel" = "Cancel";
+

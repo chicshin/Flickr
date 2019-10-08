@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  viber
+
+  Created by Jane Shin on 10/5/19.
+  Copyright © 2019 Jane Shin. All rights reserved.
+*/
+
+// Launch Screen View Controller
+"Welcome" = "반갑습니다";
+
+// Feeds View Controller
+"Feeds" = "피드";
+
+// Home View Controller
+"RequestRegister" = "클릭하여 자신만의 프로필을 생성하세요.\n\n나만의 아름다운 사진, 동영상 그리고 저널을 다른 플리커들에게 공유하세요.";
+
+// Register View Controller
+"Register" = "가입하기";
+"CreateUsername" = "사용자 아이디 만들기";
+"Email" = "이메일 등록하기";
+"Password" = "패스워드";
+"Re-Password" = "패스워드 확인";
+"EnterEmail" = "이곳에 이메일을 입력해주세요";
+"EnterPassword" = "패스워드를 입력해주세요";
+"ReEnterPassword" = "다시한번 패스워드를 입력해주세요";
+
+"Next" = "다음";
+
+"Already have an account? " = "이미 회원이신가요? ";
+"Sign In" = "로그인 ";
+"By signing up you agree to our" = "사용자는 아래 문서들에 대해 동의하고 가입합니다.\n";
+
+// Sign In View Controller
+"Username" = "아이디";
+"EnterUsername" = "아이디를 입력하세요";
+"EnterPassword" = "패스워드를 입력하세요";
+
+"By signing in you agree to our" = "사용자는 아래 문서들에 대해 동의하고 로그인 합니다.\n";
+"Terms & Privacy Policy" = "약관 및 개인정보처리방침";
+
+"Can we help?" = "무엇을 도와드릴까요?";
+"To find password" = "패스워드 찾기";
+"Get Support" = "지원이 필요합니다";
+"Cancel" = "취소";
